@@ -1,0 +1,83 @@
+# =========================
+# Unity
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash reports
+sysinfo.txt
+
+# Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# =========================
+# Visual Studio / VS Code
+# =========================
+
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio cache/options
+*.VC.db
+*.VC.VC.opendb
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Flask / Python local files
+# =========================
+
+instance/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# =========================
+# Database
+# =========================
+
+# Ignore local SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
